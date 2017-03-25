@@ -8,3 +8,5 @@ NLPCC2016 词语相似度任务（500对词）和Chinese ploymous words （401�
 通过线性函数将余弦相似度[-1,1]转化为[0,10]之间的数，利用斯皮尔曼相关系数（Spearman rank）求得结果
 ## 词林
 哈工大同义词词林1.0版本
+## 运行程序
+python Spearman.py  
